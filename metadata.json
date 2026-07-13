@@ -1,0 +1,6 @@
+{
+  "name": "HerSphere",
+  "description": "A beautiful, safe and intelligent wellness companion for every woman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
